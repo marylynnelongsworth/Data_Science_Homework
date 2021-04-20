@@ -11,3 +11,5 @@ Repository for homework done for CoderGirl - Data Science March 2021
 2021-04-10 - Week 04 Homework posted
 
 2021-04-14 - Week 05 Homework posted
+
+2021-04-20 - Week 06 Homework posted (SQL file, Jupyter Notebook, & 2 graphs)
