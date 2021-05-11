@@ -17,3 +17,5 @@ Repository for homework done for CoderGirl - Data Science March 2021
 2021-05-04 - Week 07 Homework posted (SQL file with copious notes)
 
 2021-05-08 - Week 08 Homework posted (copies of finished project files)
+
+2021-08-11 - Week 09 Homework posted
